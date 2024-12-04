@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Hugod\\.nuget\\packages\\": {}
+    "C:\\Users\\jetza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hugod\\Desktop\\ProgramasVS\\ProyectoFinal\\ProyectoFinal.csproj",
+      "projectUniqueName": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\ProyectoFinal.csproj",
       "projectName": "ProyectoFinal",
-      "projectPath": "C:\\Users\\Hugod\\Desktop\\ProgramasVS\\ProyectoFinal\\ProyectoFinal.csproj",
-      "packagesPath": "C:\\Users\\Hugod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hugod\\Desktop\\ProgramasVS\\ProyectoFinal\\obj\\",
+      "projectPath": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\ProyectoFinal.csproj",
+      "packagesPath": "C:\\Users\\jetza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Hugod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jetza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
