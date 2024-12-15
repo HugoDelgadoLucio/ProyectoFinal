@@ -1,0 +1,17 @@
+C:\Users\NesGa\source\repos\WinFormsAppPortada\bin\Debug\net8.0-windows\WinFormsAppPortada.exe
+C:\Users\NesGa\source\repos\WinFormsAppPortada\bin\Debug\net8.0-windows\WinFormsAppPortada.deps.json
+C:\Users\NesGa\source\repos\WinFormsAppPortada\bin\Debug\net8.0-windows\WinFormsAppPortada.runtimeconfig.json
+C:\Users\NesGa\source\repos\WinFormsAppPortada\bin\Debug\net8.0-windows\WinFormsAppPortada.dll
+C:\Users\NesGa\source\repos\WinFormsAppPortada\bin\Debug\net8.0-windows\WinFormsAppPortada.pdb
+C:\Users\NesGa\source\repos\WinFormsAppPortada\obj\Debug\net8.0-windows\WinFormsAppPortada.Form1.resources
+C:\Users\NesGa\source\repos\WinFormsAppPortada\obj\Debug\net8.0-windows\WinFormsAppPortada.Properties.Resources.resources
+C:\Users\NesGa\source\repos\WinFormsAppPortada\obj\Debug\net8.0-windows\WinFormsAppPortada.csproj.GenerateResource.cache
+C:\Users\NesGa\source\repos\WinFormsAppPortada\obj\Debug\net8.0-windows\WinFormsAppPortada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NesGa\source\repos\WinFormsAppPortada\obj\Debug\net8.0-windows\WinFormsAppPortada.AssemblyInfoInputs.cache
+C:\Users\NesGa\source\repos\WinFormsAppPortada\obj\Debug\net8.0-windows\WinFormsAppPortada.AssemblyInfo.cs
+C:\Users\NesGa\source\repos\WinFormsAppPortada\obj\Debug\net8.0-windows\WinFormsAppPortada.csproj.CoreCompileInputs.cache
+C:\Users\NesGa\source\repos\WinFormsAppPortada\obj\Debug\net8.0-windows\WinFormsAppPortada.dll
+C:\Users\NesGa\source\repos\WinFormsAppPortada\obj\Debug\net8.0-windows\refint\WinFormsAppPortada.dll
+C:\Users\NesGa\source\repos\WinFormsAppPortada\obj\Debug\net8.0-windows\WinFormsAppPortada.pdb
+C:\Users\NesGa\source\repos\WinFormsAppPortada\obj\Debug\net8.0-windows\WinFormsAppPortada.genruntimeconfig.cache
+C:\Users\NesGa\source\repos\WinFormsAppPortada\obj\Debug\net8.0-windows\ref\WinFormsAppPortada.dll
