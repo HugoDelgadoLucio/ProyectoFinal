@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace ProyectoFinal
 {
@@ -54,7 +55,7 @@ namespace ProyectoFinal
 
                 MySqlCommand cmd = new MySqlCommand(query, connection);
                 cmd.ExecuteNonQuery();
-                //MessageBox.Show(query+"\nRegistro Agregado");
+                MessageBox.Show("Registro Agregado con Exito");
             }
             catch (Exception ex)
             {
@@ -74,7 +75,7 @@ namespace ProyectoFinal
 
                 MySqlCommand cmd = new MySqlCommand(query, connection);
                 cmd.ExecuteNonQuery();
-                //MessageBox.Show(query + "\nRegistro Eliminado");
+                MessageBox.Show("Registro Eliminado");
             }
             catch (Exception ex)
             {
@@ -214,8 +215,5 @@ namespace ProyectoFinal
             }
             return data;
         }
-
-
-
     }
 }

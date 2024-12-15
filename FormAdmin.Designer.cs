@@ -28,235 +28,232 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormAdmin));
             panel1 = new Panel();
+            groupBox1 = new GroupBox();
+            labelUsuario = new Label();
+            buttonLogout = new Button();
+            labelSalir = new Label();
+            label3 = new Label();
+            label2 = new Label();
+            pictureBox1 = new PictureBox();
+            label1 = new Label();
             buttonMostrarChart = new Button();
-            chartExistencias = new System.Windows.Forms.DataVisualization.Charting.Chart();
-            labelVentas = new Label();
             buttonVentasTotales = new Button();
-            richTextBoxComidas = new RichTextBox();
             buttonVerComidas = new Button();
-            groupBoxBaja = new GroupBox();
-            buttonEliminar = new Button();
-            textBoxBajaId = new TextBox();
             buttonVerBaja = new Button();
-            groupBoxAlta = new GroupBox();
-            textBoxAltaId = new TextBox();
-            buttonDarAlta = new Button();
-            textBoxAltaDescripcion = new TextBox();
-            textBoxAltaImagen = new TextBox();
-            textBoxAltaPrecio = new TextBox();
-            textBoxAltaExistencias = new TextBox();
             buttonMostrarAlta = new Button();
             mySqlCommand1 = new MySql.Data.MySqlClient.MySqlCommand();
             mySqlCommand2 = new MySql.Data.MySqlClient.MySqlCommand();
             panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)chartExistencias).BeginInit();
-            groupBoxBaja.SuspendLayout();
-            groupBoxAlta.SuspendLayout();
+            groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // panel1
             // 
+            panel1.BackgroundImage = (Image)resources.GetObject("panel1.BackgroundImage");
+            panel1.Controls.Add(groupBox1);
+            panel1.Controls.Add(label3);
+            panel1.Controls.Add(label2);
+            panel1.Controls.Add(pictureBox1);
+            panel1.Controls.Add(label1);
             panel1.Controls.Add(buttonMostrarChart);
-            panel1.Controls.Add(chartExistencias);
-            panel1.Controls.Add(labelVentas);
             panel1.Controls.Add(buttonVentasTotales);
-            panel1.Controls.Add(richTextBoxComidas);
             panel1.Controls.Add(buttonVerComidas);
-            panel1.Controls.Add(groupBoxBaja);
             panel1.Controls.Add(buttonVerBaja);
-            panel1.Controls.Add(groupBoxAlta);
             panel1.Controls.Add(buttonMostrarAlta);
             panel1.Dock = DockStyle.Fill;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
-            panel1.Size = new Size(1030, 533);
+            panel1.Size = new Size(1353, 749);
             panel1.TabIndex = 6;
             panel1.Paint += panel1_Paint;
             // 
+            // groupBox1
+            // 
+            groupBox1.BackColor = Color.PeachPuff;
+            groupBox1.Controls.Add(labelUsuario);
+            groupBox1.Controls.Add(buttonLogout);
+            groupBox1.Controls.Add(labelSalir);
+            groupBox1.Font = new Font("MV Boli", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            groupBox1.Location = new Point(1007, 92);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Size = new Size(346, 142);
+            groupBox1.TabIndex = 30;
+            groupBox1.TabStop = false;
+            groupBox1.Text = "Usuario";
+            // 
+            // labelUsuario
+            // 
+            labelUsuario.AutoSize = true;
+            labelUsuario.Font = new Font("MV Boli", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            labelUsuario.Location = new Point(16, 40);
+            labelUsuario.Name = "labelUsuario";
+            labelUsuario.Size = new Size(66, 17);
+            labelUsuario.TabIndex = 26;
+            labelUsuario.Text = "Nombre: ";
+            labelUsuario.Click += labelUsuario_Click;
+            // 
+            // buttonLogout
+            // 
+            buttonLogout.BackgroundImage = (Image)resources.GetObject("buttonLogout.BackgroundImage");
+            buttonLogout.BackgroundImageLayout = ImageLayout.Zoom;
+            buttonLogout.Cursor = Cursors.Hand;
+            buttonLogout.FlatAppearance.BorderSize = 0;
+            buttonLogout.FlatAppearance.MouseDownBackColor = Color.Transparent;
+            buttonLogout.FlatAppearance.MouseOverBackColor = Color.Transparent;
+            buttonLogout.FlatStyle = FlatStyle.Flat;
+            buttonLogout.Location = new Point(239, 63);
+            buttonLogout.Name = "buttonLogout";
+            buttonLogout.Size = new Size(57, 54);
+            buttonLogout.TabIndex = 27;
+            buttonLogout.UseVisualStyleBackColor = true;
+            buttonLogout.Click += buttonLogout_Click;
+            // 
+            // labelSalir
+            // 
+            labelSalir.AutoSize = true;
+            labelSalir.Font = new Font("MV Boli", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            labelSalir.Location = new Point(208, 120);
+            labelSalir.Name = "labelSalir";
+            labelSalir.Size = new Size(88, 17);
+            labelSalir.TabIndex = 28;
+            labelSalir.Text = "Cerrar Sesion";
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.BackColor = Color.Transparent;
+            label3.Font = new Font("Mexicana", 21.75F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            label3.ForeColor = Color.Brown;
+            label3.Location = new Point(185, 71);
+            label3.Name = "label3";
+            label3.Size = new Size(312, 25);
+            label3.TabIndex = 25;
+            label3.Text = "De mexico a tu plato ";
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.BackColor = Color.Transparent;
+            label2.Font = new Font("El Rio Lobo", 48F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label2.ForeColor = Color.DarkGreen;
+            label2.Location = new Point(170, 9);
+            label2.Name = "label2";
+            label2.Size = new Size(955, 62);
+            label2.TabIndex = 24;
+            label2.Text = "Comida Mexicana Doña Dominga";
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.BackColor = Color.Transparent;
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(24, 102);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(141, 151);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 23;
+            pictureBox1.TabStop = false;
+            pictureBox1.Click += pictureBox1_Click;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.BackColor = Color.MistyRose;
+            label1.Font = new Font("Mexicana", 48F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label1.Location = new Point(391, 144);
+            label1.Name = "label1";
+            label1.Size = new Size(518, 53);
+            label1.TabIndex = 22;
+            label1.Text = "ADMINISTRADOR";
+            // 
             // buttonMostrarChart
             // 
-            buttonMostrarChart.Location = new Point(798, 127);
+            buttonMostrarChart.BackColor = Color.Transparent;
+            buttonMostrarChart.BackgroundImage = (Image)resources.GetObject("buttonMostrarChart.BackgroundImage");
+            buttonMostrarChart.BackgroundImageLayout = ImageLayout.Zoom;
+            buttonMostrarChart.Cursor = Cursors.Hand;
+            buttonMostrarChart.FlatAppearance.BorderSize = 0;
+            buttonMostrarChart.FlatAppearance.MouseDownBackColor = Color.Transparent;
+            buttonMostrarChart.FlatAppearance.MouseOverBackColor = Color.Transparent;
+            buttonMostrarChart.FlatStyle = FlatStyle.Flat;
+            buttonMostrarChart.Location = new Point(1040, 307);
             buttonMostrarChart.Name = "buttonMostrarChart";
-            buttonMostrarChart.Size = new Size(151, 48);
+            buttonMostrarChart.Size = new Size(310, 125);
             buttonMostrarChart.TabIndex = 21;
-            buttonMostrarChart.Text = "Mostrar Grafica de Existencias";
-            buttonMostrarChart.UseVisualStyleBackColor = true;
+            buttonMostrarChart.UseVisualStyleBackColor = false;
             buttonMostrarChart.Click += buttonMostrarChart_Click;
-            // 
-            // chartExistencias
-            // 
-            chartArea1.Name = "ChartArea1";
-            chartExistencias.ChartAreas.Add(chartArea1);
-            legend1.Name = "Legend1";
-            chartExistencias.Legends.Add(legend1);
-            chartExistencias.Location = new Point(724, 210);
-            chartExistencias.Name = "chartExistencias";
-            series1.ChartArea = "ChartArea1";
-            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Pie;
-            series1.Legend = "Legend1";
-            series1.Name = "Existencias";
-            series1.SmartLabelStyle.IsMarkerOverlappingAllowed = true;
-            chartExistencias.Series.Add(series1);
-            chartExistencias.Size = new Size(306, 404);
-            chartExistencias.TabIndex = 20;
-            chartExistencias.Text = "chart1";
-            // 
-            // labelVentas
-            // 
-            labelVentas.AutoSize = true;
-            labelVentas.Location = new Point(684, 76);
-            labelVentas.Name = "labelVentas";
-            labelVentas.Size = new Size(83, 15);
-            labelVentas.TabIndex = 19;
-            labelVentas.Text = "Ventas Totales:";
-            labelVentas.Click += labelVentas_Click;
             // 
             // buttonVentasTotales
             // 
-            buttonVentasTotales.Location = new Point(684, 12);
+            buttonVentasTotales.BackColor = Color.Transparent;
+            buttonVentasTotales.BackgroundImage = (Image)resources.GetObject("buttonVentasTotales.BackgroundImage");
+            buttonVentasTotales.BackgroundImageLayout = ImageLayout.Zoom;
+            buttonVentasTotales.Cursor = Cursors.Hand;
+            buttonVentasTotales.FlatAppearance.BorderSize = 0;
+            buttonVentasTotales.FlatAppearance.MouseDownBackColor = Color.Transparent;
+            buttonVentasTotales.FlatAppearance.MouseOverBackColor = Color.Transparent;
+            buttonVentasTotales.FlatStyle = FlatStyle.Flat;
+            buttonVentasTotales.Location = new Point(859, 509);
             buttonVentasTotales.Name = "buttonVentasTotales";
-            buttonVentasTotales.Size = new Size(131, 45);
+            buttonVentasTotales.Size = new Size(291, 141);
             buttonVentasTotales.TabIndex = 18;
-            buttonVentasTotales.Text = "Ver Ventas Totales";
-            buttonVentasTotales.UseVisualStyleBackColor = true;
-            buttonVentasTotales.Click += buttonVemtasTotales_Click;
-            // 
-            // richTextBoxComidas
-            // 
-            richTextBoxComidas.Location = new Point(426, 152);
-            richTextBoxComidas.Name = "richTextBoxComidas";
-            richTextBoxComidas.Size = new Size(283, 261);
-            richTextBoxComidas.TabIndex = 17;
-            richTextBoxComidas.Text = "";
+            buttonVentasTotales.UseVisualStyleBackColor = false;
+            buttonVentasTotales.Click += buttonVentasTotales_Click;
             // 
             // buttonVerComidas
             // 
-            buttonVerComidas.Location = new Point(467, 58);
+            buttonVerComidas.BackColor = Color.Transparent;
+            buttonVerComidas.BackgroundImage = (Image)resources.GetObject("buttonVerComidas.BackgroundImage");
+            buttonVerComidas.BackgroundImageLayout = ImageLayout.Zoom;
+            buttonVerComidas.Cursor = Cursors.Hand;
+            buttonVerComidas.FlatAppearance.BorderSize = 0;
+            buttonVerComidas.FlatAppearance.MouseDownBackColor = Color.Transparent;
+            buttonVerComidas.FlatAppearance.MouseOverBackColor = Color.Transparent;
+            buttonVerComidas.FlatStyle = FlatStyle.Flat;
+            buttonVerComidas.Location = new Point(538, 322);
             buttonVerComidas.Name = "buttonVerComidas";
-            buttonVerComidas.Size = new Size(151, 50);
+            buttonVerComidas.Size = new Size(315, 159);
             buttonVerComidas.TabIndex = 16;
-            buttonVerComidas.Text = "Ver Listado de Comidas";
-            buttonVerComidas.UseVisualStyleBackColor = true;
+            buttonVerComidas.UseVisualStyleBackColor = false;
             buttonVerComidas.Click += buttonVerComidas_Click;
-            // 
-            // groupBoxBaja
-            // 
-            groupBoxBaja.Controls.Add(buttonEliminar);
-            groupBoxBaja.Controls.Add(textBoxBajaId);
-            groupBoxBaja.Location = new Point(237, 128);
-            groupBoxBaja.Name = "groupBoxBaja";
-            groupBoxBaja.Size = new Size(158, 220);
-            groupBoxBaja.TabIndex = 15;
-            groupBoxBaja.TabStop = false;
-            groupBoxBaja.Text = "Baja";
-            // 
-            // buttonEliminar
-            // 
-            buttonEliminar.Location = new Point(16, 82);
-            buttonEliminar.Name = "buttonEliminar";
-            buttonEliminar.Size = new Size(122, 51);
-            buttonEliminar.TabIndex = 1;
-            buttonEliminar.Text = "Eliminar";
-            buttonEliminar.UseVisualStyleBackColor = true;
-            buttonEliminar.Click += buttonEliminar_Click;
-            // 
-            // textBoxBajaId
-            // 
-            textBoxBajaId.Location = new Point(16, 36);
-            textBoxBajaId.Name = "textBoxBajaId";
-            textBoxBajaId.PlaceholderText = "id";
-            textBoxBajaId.Size = new Size(119, 23);
-            textBoxBajaId.TabIndex = 0;
             // 
             // buttonVerBaja
             // 
-            buttonVerBaja.Location = new Point(246, 60);
+            buttonVerBaja.BackColor = Color.Transparent;
+            buttonVerBaja.BackgroundImage = (Image)resources.GetObject("buttonVerBaja.BackgroundImage");
+            buttonVerBaja.BackgroundImageLayout = ImageLayout.Zoom;
+            buttonVerBaja.Cursor = Cursors.Hand;
+            buttonVerBaja.FlatAppearance.BorderSize = 0;
+            buttonVerBaja.FlatAppearance.MouseDownBackColor = Color.Transparent;
+            buttonVerBaja.FlatAppearance.MouseOverBackColor = Color.Transparent;
+            buttonVerBaja.FlatStyle = FlatStyle.Flat;
+            buttonVerBaja.Location = new Point(290, 496);
             buttonVerBaja.Name = "buttonVerBaja";
-            buttonVerBaja.Size = new Size(118, 48);
+            buttonVerBaja.Size = new Size(369, 172);
             buttonVerBaja.TabIndex = 14;
-            buttonVerBaja.Text = "Bajas";
-            buttonVerBaja.UseVisualStyleBackColor = true;
-            // 
-            // groupBoxAlta
-            // 
-            groupBoxAlta.Controls.Add(textBoxAltaId);
-            groupBoxAlta.Controls.Add(buttonDarAlta);
-            groupBoxAlta.Controls.Add(textBoxAltaDescripcion);
-            groupBoxAlta.Controls.Add(textBoxAltaImagen);
-            groupBoxAlta.Controls.Add(textBoxAltaPrecio);
-            groupBoxAlta.Controls.Add(textBoxAltaExistencias);
-            groupBoxAlta.Location = new Point(31, 127);
-            groupBoxAlta.Name = "groupBoxAlta";
-            groupBoxAlta.Size = new Size(179, 320);
-            groupBoxAlta.TabIndex = 13;
-            groupBoxAlta.TabStop = false;
-            groupBoxAlta.Text = "Alta";
-            groupBoxAlta.Visible = false;
-            // 
-            // textBoxAltaId
-            // 
-            textBoxAltaId.Location = new Point(27, 39);
-            textBoxAltaId.Name = "textBoxAltaId";
-            textBoxAltaId.PlaceholderText = "id";
-            textBoxAltaId.Size = new Size(117, 23);
-            textBoxAltaId.TabIndex = 7;
-            // 
-            // buttonDarAlta
-            // 
-            buttonDarAlta.Location = new Point(7, 253);
-            buttonDarAlta.Name = "buttonDarAlta";
-            buttonDarAlta.Size = new Size(136, 52);
-            buttonDarAlta.TabIndex = 12;
-            buttonDarAlta.Text = "Dar de Alta";
-            buttonDarAlta.UseVisualStyleBackColor = true;
-            buttonDarAlta.Click += button1_Click;
-            // 
-            // textBoxAltaDescripcion
-            // 
-            textBoxAltaDescripcion.Location = new Point(27, 83);
-            textBoxAltaDescripcion.Name = "textBoxAltaDescripcion";
-            textBoxAltaDescripcion.PlaceholderText = "Descripcion";
-            textBoxAltaDescripcion.Size = new Size(117, 23);
-            textBoxAltaDescripcion.TabIndex = 8;
-            // 
-            // textBoxAltaImagen
-            // 
-            textBoxAltaImagen.Location = new Point(26, 212);
-            textBoxAltaImagen.Name = "textBoxAltaImagen";
-            textBoxAltaImagen.PlaceholderText = "Imagen";
-            textBoxAltaImagen.Size = new Size(117, 23);
-            textBoxAltaImagen.TabIndex = 11;
-            // 
-            // textBoxAltaPrecio
-            // 
-            textBoxAltaPrecio.Location = new Point(27, 129);
-            textBoxAltaPrecio.Name = "textBoxAltaPrecio";
-            textBoxAltaPrecio.PlaceholderText = "Precio";
-            textBoxAltaPrecio.Size = new Size(117, 23);
-            textBoxAltaPrecio.TabIndex = 9;
-            // 
-            // textBoxAltaExistencias
-            // 
-            textBoxAltaExistencias.Location = new Point(27, 171);
-            textBoxAltaExistencias.Name = "textBoxAltaExistencias";
-            textBoxAltaExistencias.PlaceholderText = "Existencias";
-            textBoxAltaExistencias.Size = new Size(117, 23);
-            textBoxAltaExistencias.TabIndex = 10;
-            textBoxAltaExistencias.TextChanged += textBoxAltaExistencias_TextChanged;
+            buttonVerBaja.UseVisualStyleBackColor = false;
+            buttonVerBaja.Click += buttonVerBaja_Click;
             // 
             // buttonMostrarAlta
             // 
-            buttonMostrarAlta.Location = new Point(40, 60);
+            buttonMostrarAlta.BackColor = Color.Transparent;
+            buttonMostrarAlta.BackgroundImage = (Image)resources.GetObject("buttonMostrarAlta.BackgroundImage");
+            buttonMostrarAlta.BackgroundImageLayout = ImageLayout.Zoom;
+            buttonMostrarAlta.Cursor = Cursors.Hand;
+            buttonMostrarAlta.FlatAppearance.BorderSize = 0;
+            buttonMostrarAlta.FlatAppearance.MouseDownBackColor = Color.Transparent;
+            buttonMostrarAlta.FlatAppearance.MouseOverBackColor = Color.Transparent;
+            buttonMostrarAlta.FlatStyle = FlatStyle.Flat;
+            buttonMostrarAlta.ForeColor = SystemColors.WindowFrame;
+            buttonMostrarAlta.Location = new Point(9, 239);
             buttonMostrarAlta.Name = "buttonMostrarAlta";
-            buttonMostrarAlta.Size = new Size(118, 48);
+            buttonMostrarAlta.Size = new Size(351, 145);
             buttonMostrarAlta.TabIndex = 6;
-            buttonMostrarAlta.Text = "Alta ";
-            buttonMostrarAlta.UseVisualStyleBackColor = true;
+            buttonMostrarAlta.UseVisualStyleBackColor = false;
             buttonMostrarAlta.Click += buttonMostrarAlta_Click;
+            buttonMostrarAlta.MouseEnter += buttonMostrarAlta_MouseEnter;
             // 
             // mySqlCommand1
             // 
@@ -276,43 +273,39 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1030, 533);
+            ClientSize = new Size(1353, 749);
             Controls.Add(panel1);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            MaximizeBox = false;
+            MinimizeBox = false;
             Name = "FormAdmin";
             Text = "FormAdmin";
-            Load += FormAdmin_Load_1;
+            WindowState = FormWindowState.Maximized;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)chartExistencias).EndInit();
-            groupBoxBaja.ResumeLayout(false);
-            groupBoxBaja.PerformLayout();
-            groupBoxAlta.ResumeLayout(false);
-            groupBoxAlta.PerformLayout();
+            groupBox1.ResumeLayout(false);
+            groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
 
         private Panel panel1;
-        private TextBox textBoxAltaImagen;
-        private TextBox textBoxAltaExistencias;
-        private TextBox textBoxAltaPrecio;
-        private TextBox textBoxAltaDescripcion;
-        private TextBox textBoxAltaId;
         private Button buttonMostrarAlta;
-        private Button buttonDarAlta;
-        private GroupBox groupBoxAlta;
-        private GroupBox groupBoxBaja;
-        private Button buttonEliminar;
-        private TextBox textBoxBajaId;
         private Button buttonVerBaja;
         private Button buttonVerComidas;
-        private RichTextBox richTextBoxComidas;
         private Button buttonVentasTotales;
-        private Label labelVentas;
         private MySql.Data.MySqlClient.MySqlCommand mySqlCommand1;
         private MySql.Data.MySqlClient.MySqlCommand mySqlCommand2;
-        private System.Windows.Forms.DataVisualization.Charting.Chart chartExistencias;
         private Button buttonMostrarChart;
+        private Label label1;
+        private PictureBox pictureBox1;
+        private Label label2;
+        private Label label3;
+        private Label labelUsuario;
+        private Button buttonLogout;
+        private Label labelSalir;
+        private GroupBox groupBox1;
     }
 }

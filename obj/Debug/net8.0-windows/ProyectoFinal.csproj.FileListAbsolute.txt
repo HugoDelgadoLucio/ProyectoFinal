@@ -33,3 +33,10 @@ C:\Users\jetza\OneDrive\Documentos\Proyecto Final C#\ProyectoFinal\obj\Debug\net
 C:\Users\jetza\OneDrive\Documentos\Proyecto Final C#\ProyectoFinal\obj\Debug\net8.0-windows\ref\ProyectoFinal.dll
 C:\Users\jetza\OneDrive\Documentos\Proyecto Final C#\ProyectoFinal\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
 C:\Users\jetza\OneDrive\Documentos\Proyecto Final C#\ProyectoFinal\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\jetza\OneDrive\Documentos\Proyecto Final C#\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.Properties.Resources.resources
+C:\Users\jetza\OneDrive\Documentos\Proyecto Final C#\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.AltaComida.resources
+C:\Users\jetza\OneDrive\Documentos\Proyecto Final C#\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.formBajaComida.resources
+C:\Users\jetza\OneDrive\Documentos\Proyecto Final C#\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.FormListaComidas.resources
+C:\Users\jetza\OneDrive\Documentos\Proyecto Final C#\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.FormVentasTotales.resources
+C:\Users\jetza\OneDrive\Documentos\Proyecto Final C#\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.FormGrafica.resources
+C:\Users\jetza\OneDrive\Documentos\Proyecto Final C#\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.FormCarga.resources

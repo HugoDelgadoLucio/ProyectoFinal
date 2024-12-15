@@ -28,25 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
-            buttonFormAdmin = new Button();
             SuspendLayout();
-            // 
-            // buttonFormAdmin
-            // 
-            buttonFormAdmin.Location = new Point(325, 169);
-            buttonFormAdmin.Name = "buttonFormAdmin";
-            buttonFormAdmin.Size = new Size(179, 74);
-            buttonFormAdmin.TabIndex = 0;
-            buttonFormAdmin.Text = "Mostrar Pantalla Admin";
-            buttonFormAdmin.UseVisualStyleBackColor = true;
-            buttonFormAdmin.Click += buttonFormAdmin_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(buttonFormAdmin);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
@@ -54,7 +42,5 @@
         }
 
         #endregion
-
-        private Button buttonFormAdmin;
     }
 }
