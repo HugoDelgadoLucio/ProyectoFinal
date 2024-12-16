@@ -1,0 +1,74 @@
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\PARTE PROC.exe
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\PARTE PROC.deps.json
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\PARTE PROC.runtimeconfig.json
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\PARTE PROC.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\PARTE PROC.pdb
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\obj\Debug\net8.0-windows\PARTE_PROC.Form1.resources
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\obj\Debug\net8.0-windows\PARTE_PROC.Properties.Resources.resources
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\obj\Debug\net8.0-windows\PARTE PROC.csproj.GenerateResource.cache
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\obj\Debug\net8.0-windows\PARTE PROC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\obj\Debug\net8.0-windows\PARTE PROC.AssemblyInfoInputs.cache
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\obj\Debug\net8.0-windows\PARTE PROC.AssemblyInfo.cs
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\obj\Debug\net8.0-windows\PARTE PROC.csproj.CoreCompileInputs.cache
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\obj\Debug\net8.0-windows\PARTE PROC.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\obj\Debug\net8.0-windows\refint\PARTE PROC.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\obj\Debug\net8.0-windows\PARTE PROC.pdb
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\obj\Debug\net8.0-windows\PARTE PROC.genruntimeconfig.cache
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\obj\Debug\net8.0-windows\ref\PARTE PROC.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\obj\Debug\net8.0-windows\PARTE PROC.csproj.AssemblyReference.cache
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\obj\Debug\net8.0-windows\PARTE PROC.csproj.Up2Date
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\parte de proyecto\PARTE PROC\obj\Debug\net8.0-windows\PARTE PROC.csproj.ResolveComReference.cache
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\PARTE PROC.exe
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\PARTE PROC.deps.json
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\PARTE PROC.runtimeconfig.json
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\PARTE PROC.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\PARTE PROC.pdb
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\obj\Debug\net8.0-windows\PARTE PROC.csproj.AssemblyReference.cache
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\obj\Debug\net8.0-windows\PARTE PROC.csproj.ResolveComReference.cache
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\obj\Debug\net8.0-windows\PARTE_PROC.Form1.resources
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\obj\Debug\net8.0-windows\PARTE_PROC.Properties.Resources.resources
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\obj\Debug\net8.0-windows\PARTE PROC.csproj.GenerateResource.cache
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\obj\Debug\net8.0-windows\PARTE PROC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\obj\Debug\net8.0-windows\PARTE PROC.AssemblyInfoInputs.cache
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\obj\Debug\net8.0-windows\PARTE PROC.AssemblyInfo.cs
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\obj\Debug\net8.0-windows\PARTE PROC.csproj.CoreCompileInputs.cache
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\obj\Debug\net8.0-windows\PARTE PROC.csproj.Up2Date
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\obj\Debug\net8.0-windows\PARTE PROC.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\obj\Debug\net8.0-windows\refint\PARTE PROC.dll
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\obj\Debug\net8.0-windows\PARTE PROC.pdb
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\obj\Debug\net8.0-windows\PARTE PROC.genruntimeconfig.cache
+C:\Users\GAEL OVALLE\Documents\UAA 3B\ParteDeProyecto\ParteProc\obj\Debug\net8.0-windows\ref\PARTE PROC.dll
