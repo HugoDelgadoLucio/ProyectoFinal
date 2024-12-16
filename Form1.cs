@@ -19,9 +19,15 @@ namespace ProyectoFinal
 
         private void button1_Click(object sender, EventArgs e)
         {
-            InterfazUsuario nuevo = new InterfazUsuario();
             this.Hide();
-            nuevo.ShowDialog();
+            
+            InterfazUsuario nuevo = new InterfazUsuario();
+
+            if (nuevo.ValidarProds()) // Método nuevo que solo valida
+            {
+                nuevo.ShowDialog();
+            }
+
             this.Show();
         }
     }

@@ -22,8 +22,8 @@ namespace ProyectoFinal
         private string[] iniciales = new string[10] { "-", "-", "-", "-", "-", "-", "-", "-", "-", "-" };
         private string[] imagenes = new string[10] { "-", "-", "-", "-", "-", "-", "-", "-", "-", "-" };
 
-
         private int[] ids = new int[10];
+        private int[] exis = new int[10];
 
         public InterfazUsuario()
         {
@@ -74,21 +74,42 @@ namespace ProyectoFinal
 
             data.ForEach(p =>
             {
-                this.iniciales[prods] = p.Descripcion;
-                this.imagenes[prods] = p.Imagen;
-                this.ids[prods] = p.Id;
+                if (prods < 10)
+                {
+                    this.iniciales[prods] = p.Descripcion;
+                    this.imagenes[prods] = p.Imagen;
+                    this.ids[prods] = p.Id;
+                    this.exis[prods] = p.Existencias;
+                }
                 this.prods++;
             });
 
             for (int i = 0; i < prods; i++)
             {
-                cajas[i].Visible = true;
-                groupBoxes[i].Visible = true;
+                if (i < 10)
+                {
+                    cajas[i].Visible = true;
+                    groupBoxes[i].Visible = true;
+                }
             }
 
             AsignarImagenes();
 
             obj.Disconnect();
+
+        }
+
+        public bool ValidarProds()
+        {
+            if (prods < 6 || prods > 10)
+            {
+                MessageBox.Show("El total de productos no esta en el rango\nsoportado por el sistema.", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
+            else
+            {
+                return true;
+            }
         }
 
         private void TimerHora_Tick(object sender, EventArgs e)
@@ -101,26 +122,45 @@ namespace ProyectoFinal
         {
             for (int i = 0; i < this.prods; i++)
             {
-                string nom = imagenes[i];
-
-                if (string.IsNullOrEmpty(nom))
+                if (i < 10)
                 {
-                    continue;
-                }
+                    string nom = imagenes[i];
 
-                // Elimina la extensión .png porque l asignar una imagen en un picturebox no se necesita
-                string nombreSinExtension = Path.GetFileNameWithoutExtension(nom);
+                    if (string.IsNullOrEmpty(nom))
+                    {
+                        continue;
+                    }
 
-                // Obtener la imagen desde los recursos
-                var imagen = Properties.Resources.ResourceManager.GetObject(nombreSinExtension) as Image;
+                    // Elimina la extensión .png porque l asignar una imagen en un picturebox no se necesita
+                    string nombreSinExtension = Path.GetFileNameWithoutExtension(nom);
 
-                if (imagen != null)
-                {
-                    cajas[i].Image = imagen;
-                }
-                else
-                {
-                    cajas[i].Image = null;
+                    // Obtener la imagen desde los recursos
+                    var imagen = Properties.Resources.ResourceManager.GetObject(nombreSinExtension) as Image;
+
+                    if (imagen != null)
+                    {
+                        if (exis[i] > 0)
+                        {
+                            cajas[i].Image = imagen;
+                        }
+                        else
+                        {
+                            AdmonDB obj = new AdmonDB();
+                            ConexionUsuario cons;
+                            cons = obj.consultaUnRegistro(ids[i], 0);
+
+                            cajas[i].Image = imagen;
+                            descripciones[i].Visible = true;
+                            descripciones[i].Text = $"¡¡¡Agotado!!!\n\nDescripcion: {cons.Descripcion}\n\nPRECIO: ${cons.Precio}\n\nEXISTENCIAS: {cons.Existencias}";
+                            descripciones[i].BackColor = Color.DarkGray;
+                            agregar[i].Enabled = false;
+                            cantidad[i].Enabled = false;
+                        }
+                    }
+                    else
+                    {
+                        cajas[i].Image = null;
+                    }
                 }
             }
         }
@@ -134,12 +174,15 @@ namespace ProyectoFinal
             if (auxpb != null)
             {
                 int indice = Array.IndexOf(cajas, auxpb);
-                if (indice >= 0 && indice < prods)
+                if (exis[indice] > 0)
                 {
-                    cons = obj.consultaUnRegistro(ids[indice], 0);
-                    descripciones[indice].Visible = true;
-                    descripciones[indice].Text = $"Descripcion: {cons.Descripcion}\n\nPRECIO: ${cons.Precio}\n\nEXISTENCIAS: {cons.Existencias}";
-                    descripciones[indice].BackColor = Color.FromArgb(255, 2, 38);
+                    if (indice >= 0 && indice < prods)
+                    {
+                        cons = obj.consultaUnRegistro(ids[indice], 0);
+                        descripciones[indice].Visible = true;
+                        descripciones[indice].Text = $"Descripcion: {cons.Descripcion}\n\nPRECIO: ${cons.Precio}\n\nEXISTENCIAS: {cons.Existencias}";
+                        descripciones[indice].BackColor = Color.FromArgb(255, 2, 38);
+                    }
                 }
             }
         }
@@ -176,10 +219,15 @@ namespace ProyectoFinal
 
         private void PictureBox_MouseLeave(object sender, EventArgs e)
         {
+            int i = 0;
             foreach (var item1 in descripciones)
             {
-                item1.Text = " ";
-                item1.Visible = false;
+                if (exis[i] > 0)
+                {
+                    item1.Text = " ";
+                    item1.Visible = false;
+                }
+                i++;
             }
         }
 

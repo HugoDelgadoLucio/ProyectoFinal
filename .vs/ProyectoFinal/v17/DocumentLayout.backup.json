@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\",
+  "WorkspaceRootPath": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\hugod\\desktop\\clones\\proyectofinal2\\interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\hugod\\desktop\\clones\\proyectofinal2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\hugod\\desktop\\clones\\proyectofinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\hugod\\desktop\\clones\\proyectofinal2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\hugod\\desktop\\clones\\proyectofinal\\interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\hugod\\desktop\\clones\\proyectofinal2\\conexionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:conexionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\hugod\\desktop\\clones\\proyectofinal\\admondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:admondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\hugod\\desktop\\clones\\proyectofinal2\\admondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:admondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\hugod\\desktop\\clones\\proyectofinal\\conexionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:conexionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,16 +34,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "InterfazUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\InterfazUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\InterfazUsuario.cs",
               "RelativeDocumentMoniker": "InterfazUsuario.cs",
-              "ToolTip": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\InterfazUsuario.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "InterfazUsuario.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\InterfazUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InterfazUsuario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T22:23:51.024Z",
               "IsPinned": true,
@@ -51,24 +51,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T00:28:49.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T00:27:21.197Z",
@@ -77,40 +64,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T00:28:49.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "InterfazUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\InterfazUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\InterfazUsuario.cs",
               "RelativeDocumentMoniker": "InterfazUsuario.cs",
-              "ToolTip": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\InterfazUsuario.cs*",
-              "RelativeToolTip": "InterfazUsuario.cs*",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAqwKIAAAA0AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\InterfazUsuario.cs",
+              "RelativeToolTip": "InterfazUsuario.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAA1wKMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T17:15:33.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "AdmonDB.cs",
-              "DocumentMoniker": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\AdmonDB.cs",
+              "DocumentMoniker": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\AdmonDB.cs",
               "RelativeDocumentMoniker": "AdmonDB.cs",
-              "ToolTip": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\AdmonDB.cs",
+              "ToolTip": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\AdmonDB.cs",
               "RelativeToolTip": "AdmonDB.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAAAGIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwGIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T20:30:11.798Z"
+              "WhenOpened": "2024-12-14T20:30:11.798Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ConexionUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\ConexionUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\ConexionUsuario.cs",
               "RelativeDocumentMoniker": "ConexionUsuario.cs",
-              "ToolTip": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\ConexionUsuario.cs",
+              "ToolTip": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\ConexionUsuario.cs",
               "RelativeToolTip": "ConexionUsuario.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T19:13:32.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T19:13:32.891Z"
             }
           ]
         }

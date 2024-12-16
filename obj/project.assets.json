@@ -1614,11 +1614,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\ProyectoFinal.csproj",
+      "projectUniqueName": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\ProyectoFinal.csproj",
       "projectName": "ProyectoFinal",
-      "projectPath": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\ProyectoFinal.csproj",
+      "projectPath": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\ProyectoFinal.csproj",
       "packagesPath": "C:\\Users\\Hugod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\obj\\",
+      "outputPath": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hugod\\AppData\\Roaming\\NuGet\\NuGet.Config",
