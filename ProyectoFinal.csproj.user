@@ -25,5 +25,8 @@
     <Compile Update="FormGrafica.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="InicioSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

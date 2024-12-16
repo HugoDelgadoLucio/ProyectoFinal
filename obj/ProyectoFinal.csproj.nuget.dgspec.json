@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\ProyectoFinal.csproj": {}
+    "C:\\Users\\GAEL OVALLE\\Documents\\ParteInicioSesion\\ProyectoFinal\\ProyectoFinal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\ProyectoFinal.csproj": {
+    "C:\\Users\\GAEL OVALLE\\Documents\\ParteInicioSesion\\ProyectoFinal\\ProyectoFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\ProyectoFinal.csproj",
+        "projectUniqueName": "C:\\Users\\GAEL OVALLE\\Documents\\ParteInicioSesion\\ProyectoFinal\\ProyectoFinal.csproj",
         "projectName": "ProyectoFinal",
-        "projectPath": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\ProyectoFinal.csproj",
-        "packagesPath": "C:\\Users\\jetza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\obj\\",
+        "projectPath": "C:\\Users\\GAEL OVALLE\\Documents\\ParteInicioSesion\\ProyectoFinal\\ProyectoFinal.csproj",
+        "packagesPath": "C:\\Users\\GAEL OVALLE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GAEL OVALLE\\Documents\\ParteInicioSesion\\ProyectoFinal\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jetza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GAEL OVALLE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,8 +42,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -73,7 +78,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

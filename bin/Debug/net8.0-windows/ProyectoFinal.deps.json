@@ -9,7 +9,9 @@
       "ProyectoFinal/1.0.0": {
         "dependencies": {
           "MySql.Data": "9.1.0",
-          "WinForms.DataVisualization": "1.9.2"
+          "WinForms.DataVisualization": "1.9.2",
+          "Interop.WMPLib": "1.0.0.0",
+          "AxInterop.WMPLib": "1.0.0.0"
         },
         "runtime": {
           "ProyectoFinal.dll": {}
@@ -214,6 +216,22 @@
           "lib/net8.0/ZstdSharp.dll": {
             "assemblyVersion": "0.8.0.0",
             "fileVersion": "0.8.0.0"
+          }
+        }
+      },
+      "Interop.WMPLib/1.0.0.0": {
+        "runtime": {
+          "Interop.WMPLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AxInterop.WMPLib/1.0.0.0": {
+        "runtime": {
+          "AxInterop.WMPLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       }
@@ -434,6 +452,16 @@
       "sha512": "sha512-Z62eNBIu8E8YtbqlMy57tK3dV1+m2b9NhPeaYovB5exmLKvrGCqOhJTzrEUH5VyUWU6vwX3c1XHJGhW5HVs8dA==",
       "path": "zstdsharp.port/0.8.0",
       "hashPath": "zstdsharp.port.0.8.0.nupkg.sha512"
+    },
+    "Interop.WMPLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AxInterop.WMPLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

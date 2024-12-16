@@ -12,11 +12,17 @@ namespace ProyectoFinal
 
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            InicioSesion pantalla = new InicioSesion();
+            pantalla.ShowDialog();
+        }
+
         //private void buttonFormAdmin_Click(object sender, EventArgs e)
         //{
-      
-            //FormCarga pantallaAdmin = new FormCarga("JETZAN AZAEL ESQUIVEL");
-            //pantallaAdmin.ShowDialog();
+
+        //FormCarga pantallaAdmin = new FormCarga("JETZAN AZAEL ESQUIVEL");
+        //pantallaAdmin.ShowDialog();
         //}
     }
 }
