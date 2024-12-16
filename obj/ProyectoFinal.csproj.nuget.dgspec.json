@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hugod\\Desktop\\ProgramasVS\\ProyectoFinal\\ProyectoFinal.csproj": {}
+    "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\ProyectoFinal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hugod\\Desktop\\ProgramasVS\\ProyectoFinal\\ProyectoFinal.csproj": {
+    "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\ProyectoFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hugod\\Desktop\\ProgramasVS\\ProyectoFinal\\ProyectoFinal.csproj",
+        "projectUniqueName": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\ProyectoFinal.csproj",
         "projectName": "ProyectoFinal",
-        "projectPath": "C:\\Users\\Hugod\\Desktop\\ProgramasVS\\ProyectoFinal\\ProyectoFinal.csproj",
+        "projectPath": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\ProyectoFinal.csproj",
         "packagesPath": "C:\\Users\\Hugod\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hugod\\Desktop\\ProgramasVS\\ProyectoFinal\\obj\\",
+        "outputPath": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hugod\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
