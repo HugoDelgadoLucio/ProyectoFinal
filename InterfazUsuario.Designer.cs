@@ -30,6 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(InterfazUsuario));
             panel1 = new Panel();
+            BtnCarrito = new Button();
             groupBoxProd10 = new GroupBox();
             btnProd10 = new Button();
             numUpDwProd10 = new NumericUpDown();
@@ -127,6 +128,7 @@
             // panel1
             // 
             panel1.BackgroundImage = Properties.Resources.f2;
+            panel1.Controls.Add(BtnCarrito);
             panel1.Controls.Add(groupBoxProd10);
             panel1.Controls.Add(groupBoxProd9);
             panel1.Controls.Add(groupBoxProd8);
@@ -163,6 +165,17 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(1564, 1028);
             panel1.TabIndex = 0;
+            // 
+            // BtnCarrito
+            // 
+            BtnCarrito.BackgroundImage = Properties.Resources.carrito_de_compras;
+            BtnCarrito.Location = new Point(547, 688);
+            BtnCarrito.Margin = new Padding(3, 2, 3, 2);
+            BtnCarrito.Name = "BtnCarrito";
+            BtnCarrito.Size = new Size(56, 45);
+            BtnCarrito.TabIndex = 81;
+            BtnCarrito.UseVisualStyleBackColor = true;
+            BtnCarrito.Click += BtnCarrito_Click;
             // 
             // groupBoxProd10
             // 
@@ -464,6 +477,7 @@
             labelProd1.TabIndex = 65;
             labelProd1.TextAlign = ContentAlignment.MiddleCenter;
             labelProd1.Visible = false;
+            labelProd1.Click += labelProd1_Click;
             // 
             // pictureBoxProd9
             // 
@@ -631,11 +645,11 @@
             // 
             labelTitulo.AutoSize = true;
             labelTitulo.BackColor = Color.Transparent;
-            labelTitulo.Font = new Font("Mexicanero", 27.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            labelTitulo.Font = new Font("Microsoft Sans Serif", 27.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             labelTitulo.ForeColor = Color.FromArgb(86, 178, 20);
             labelTitulo.Location = new Point(274, 10);
             labelTitulo.Name = "labelTitulo";
-            labelTitulo.Size = new Size(743, 37);
+            labelTitulo.Size = new Size(675, 42);
             labelTitulo.TabIndex = 0;
             labelTitulo.Text = "COMIDA MEXICANA DONA DOMINGA";
             // 
@@ -643,11 +657,11 @@
             // 
             labelEslogan.AutoSize = true;
             labelEslogan.BackColor = Color.Transparent;
-            labelEslogan.Font = new Font("Mexicana", 15.75F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            labelEslogan.Font = new Font("Microsoft Sans Serif", 15.75F, FontStyle.Italic, GraphicsUnit.Point, 0);
             labelEslogan.ForeColor = Color.FromArgb(191, 216, 81);
             labelEslogan.Location = new Point(291, 47);
             labelEslogan.Name = "labelEslogan";
-            labelEslogan.Size = new Size(221, 18);
+            labelEslogan.Size = new Size(258, 25);
             labelEslogan.TabIndex = 2;
             labelEslogan.Text = "DE MEXICO A TU PLATO";
             // 
@@ -783,7 +797,7 @@
             numUpDwProd2.TextAlign = HorizontalAlignment.Center;
             numUpDwProd2.Value = new decimal(new int[] { 1, 0, 0, 0 });
             // 
-            // Form1
+            // InterfazUsuario
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -793,7 +807,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             MinimizeBox = false;
-            Name = "Form1";
+            Name = "InterfazUsuario";
             Text = "Menu";
             WindowState = FormWindowState.Maximized;
             panel1.ResumeLayout(false);
@@ -903,5 +917,6 @@
         private Label labelHora;
         private Label labelFecha;
         private PictureBox pictureBoxLogOut;
+        private Button BtnCarrito;
     }
 }

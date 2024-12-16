@@ -1,3 +1,10 @@
+using System.Diagnostics;
+using QuestPDF.Companion;
+using QuestPDF.Fluent;
+using QuestPDF.Helpers;
+using QuestPDF.Infrastructure;
+using QuestPDF.Previewer;
+
 namespace ProyectoFinal
 {
     internal static class Program

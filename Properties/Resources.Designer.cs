@@ -143,6 +143,16 @@ namespace ProyectoFinal.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap carrito_de_compras {
+            get {
+                object obj = ResourceManager.GetObject("carrito de compras", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ChileNogada {
             get {
                 object obj = ResourceManager.GetObject("ChileNogada", resourceCulture);
@@ -223,6 +233,16 @@ namespace ProyectoFinal.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Imagen_de_WhatsApp_2024_12_05_a_las_18_13_19_8c457d6a {
+            get {
+                object obj = ResourceManager.GetObject("Imagen de WhatsApp 2024-12-05 a las 18.13.19_8c457d6a", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Jamaica {
             get {
                 object obj = ResourceManager.GetObject("Jamaica", resourceCulture);
@@ -296,6 +316,16 @@ namespace ProyectoFinal.Properties {
         internal static System.Drawing.Bitmap Taco_mascot {
             get {
                 object obj = ResourceManager.GetObject("Taco_mascot", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Taco_mascot1 {
+            get {
+                object obj = ResourceManager.GetObject("Taco_mascot1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -121,6 +121,9 @@
   <data name="ChileNogada" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ChileNogada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="LogOut" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LogOut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Salir" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Salir.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -129,9 +132,6 @@
   </data>
   <data name="Agregar5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Agregar5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Gringa" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Gringa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="TortaBirria" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\TortaBirria.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -144,6 +144,9 @@
   </data>
   <data name="Fanta" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Fanta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="carrito de compras" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\carrito de compras.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Sprite" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Sprite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -178,6 +181,9 @@
   <data name="Taco_mascot" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Taco_mascot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="TamalVerde" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TamalVerde.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Lechera" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Lechera.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -190,8 +196,11 @@
   <data name="botonsig" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\botonsig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="TamalVerde" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\TamalVerde.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Imagen de WhatsApp 2024-12-05 a las 18.13.19_8c457d6a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Imagen de WhatsApp 2024-12-05 a las 18.13.19_8c457d6a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gringa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gringa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="TamalRojo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\TamalRojo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -202,7 +211,7 @@
   <data name="Horchata" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Horchata.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="LogOut" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LogOut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Taco_mascot1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Taco_mascot1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -4,6 +4,7 @@ namespace ProyectoFinal
 {
     public partial class InterfazUsuario : Form
     {
+        private Button btnCarrito;
         private int prods;
 
         List<ConexionUsuario> data;
@@ -27,7 +28,10 @@ namespace ProyectoFinal
 
         public InterfazUsuario()
         {
+
+
             InitializeComponent();
+            listaCompra = new List<ConexionUsuario>();
 
             //Obtiene el dia actual
             dia = DateTime.UtcNow.ToString("dd/MM/yyyy");
@@ -96,6 +100,12 @@ namespace ProyectoFinal
             AsignarImagenes();
 
             obj.Disconnect();
+            btnCarrito = new Button();
+            btnCarrito.Text = "Ver Carrito";
+            btnCarrito.Location = new Point(this.ClientSize.Width - 120, this.ClientSize.Height - 50);
+            btnCarrito.Size = new Size(100, 30);
+            btnCarrito.Click += BtnCarrito_Click;
+            this.Controls.Add(btnCarrito);
 
         }
 
@@ -210,13 +220,21 @@ namespace ProyectoFinal
                         aux = cantidad[indice].Text;
                         cant = Convert.ToInt32(aux);
                         cons = obj.consultaUnRegistro(ids[indice], cant);
-                        MessageBox.Show("Producto(s) agregado(s) al carrito.", "CARRITO", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                        cantidad[indice].Text = "1";
+                        if (cant > cons.Existencias)
+                        {
+                            MessageBox.Show("Error en la cantidad indicada.\nSe exceden las exitencias del producto.", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            cantidad[indice].Text = "1";
+                        }
+                        else
+                        {
+                            MessageBox.Show("Producto(s) agregado(s) al carrito.", "CARRITO", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            cantidad[indice].Text = "1";
+                            this.listaCompra.Add(cons);
+                        }
                     }
                 }
             }
         }
-
         private void PictureBox_MouseLeave(object sender, EventArgs e)
         {
             int i = 0;
@@ -250,6 +268,31 @@ namespace ProyectoFinal
             {
                 this.Close();
             }
+        }
+
+        private void BtnCarrito_Click(object sender, EventArgs e)
+        {
+            if (listaCompra.Count == 0)
+            {
+                MessageBox.Show("El carrito está vacío.", "Carrito", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                return;
+            }
+
+            using (CarritoForm carritoForm = new CarritoForm(listaCompra))
+            {
+                DialogResult result = carritoForm.ShowDialog();
+
+                if (result == DialogResult.OK)
+                {
+                    // Compra realizada, limpiar el carrito
+                    listaCompra.Clear();
+                }
+            }
+        }
+
+        private void labelProd1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

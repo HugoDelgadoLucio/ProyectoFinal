@@ -1,30 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\",
+  "WorkspaceRootPath": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\hugod\\desktop\\clones\\proyectofinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\sombr\\desktop\\desole\\proyectofinal\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\hugod\\desktop\\clones\\proyectofinal\\interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\sombr\\desktop\\desole\\proyectofinal\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\sombr\\desktop\\desole\\proyectofinal\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\sombr\\desktop\\desole\\proyectofinal\\carritoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:carritoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\hugod\\desktop\\clones\\proyectofinal\\admondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:admondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\sombr\\desktop\\desole\\proyectofinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\hugod\\desktop\\clones\\proyectofinal\\conexionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\sombr\\desktop\\desole\\proyectofinal\\interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\sombr\\desktop\\desole\\proyectofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\carritoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:carritoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\sombr\\desktop\\desole\\proyectofinal\\conexionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:conexionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\sombr\\desktop\\desole\\proyectofinal\\carritoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:carritoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sombr\\Desktop\\eeeeeeeee\\Form3.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\sombr\\desktop\\desole\\proyectofinal\\pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\sombr\\desktop\\desole\\proyectofinal\\wonderofu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:wonderofu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\sombr\\desktop\\desole\\proyectofinal\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\sombr\\desktop\\desole\\proyectofinal\\admondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:admondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +85,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:53:26.501Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "InterfazUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\InterfazUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\InterfazUsuario.cs",
               "RelativeDocumentMoniker": "InterfazUsuario.cs",
-              "ToolTip": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\InterfazUsuario.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\InterfazUsuario.cs [Dise\u00F1o]",
               "RelativeToolTip": "InterfazUsuario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T22:23:51.024Z",
@@ -50,12 +113,104 @@
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarritoForm.cs",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\CarritoForm.cs",
+              "RelativeDocumentMoniker": "CarritoForm.cs",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\CarritoForm.cs",
+              "RelativeToolTip": "CarritoForm.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAK8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:15:47.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAIAwwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:55:48.54Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:49:56.323Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAIAwwKgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:16:05.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:08:08.946Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\eeeeeeeee\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\eeeeeeeee\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\eeeeeeeee\\Form3.Designer.cs",
+              "RelativeToolTip": "..\\..\\eeeeeeeee\\Form3.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:06:48.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:54:34.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T00:27:21.197Z",
@@ -63,54 +218,116 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "CarritoForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\CarritoForm.cs",
+              "RelativeDocumentMoniker": "CarritoForm.cs",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\CarritoForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CarritoForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T00:28:49.78Z",
+              "WhenOpened": "2024-12-16T06:10:21.718Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:12:48.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "InterfazUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\InterfazUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\InterfazUsuario.cs",
               "RelativeDocumentMoniker": "InterfazUsuario.cs",
-              "ToolTip": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\InterfazUsuario.cs",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\InterfazUsuario.cs",
               "RelativeToolTip": "InterfazUsuario.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAA1wKMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAtwMAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T17:15:33.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdmonDB.cs",
-              "DocumentMoniker": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\AdmonDB.cs",
-              "RelativeDocumentMoniker": "AdmonDB.cs",
-              "ToolTip": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\AdmonDB.cs",
-              "RelativeToolTip": "AdmonDB.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAIwGIAAAANAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "PdfGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\PdfGenerator.cs",
+              "RelativeDocumentMoniker": "PdfGenerator.cs",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\PdfGenerator.cs",
+              "RelativeToolTip": "PdfGenerator.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T20:30:11.798Z",
+              "WhenOpened": "2024-12-16T19:06:55.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarritoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\CarritoForm.Designer.cs",
+              "RelativeDocumentMoniker": "CarritoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\CarritoForm.Designer.cs",
+              "RelativeToolTip": "CarritoForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:16:08.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ConexionUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\ConexionUsuario.cs",
-              "RelativeDocumentMoniker": "ConexionUsuario.cs",
-              "ToolTip": "C:\\Users\\Hugod\\Desktop\\Clones\\ProyectoFinal\\ConexionUsuario.cs",
-              "RelativeToolTip": "ConexionUsuario.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "WonderOfU.cs",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\WonderOfU.cs",
+              "RelativeDocumentMoniker": "WonderOfU.cs",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\WonderOfU.cs",
+              "RelativeToolTip": "WonderOfU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T19:13:32.891Z"
+              "WhenOpened": "2024-12-16T20:18:56.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T00:28:49.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdmonDB.cs",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\AdmonDB.cs",
+              "RelativeDocumentMoniker": "AdmonDB.cs",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\AdmonDB.cs",
+              "RelativeToolTip": "AdmonDB.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwGIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:30:11.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConexionUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\ConexionUsuario.cs",
+              "RelativeDocumentMoniker": "ConexionUsuario.cs",
+              "ToolTip": "C:\\Users\\sombr\\Desktop\\Desole\\ProyectoFinal\\ConexionUsuario.cs",
+              "RelativeToolTip": "ConexionUsuario.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:13:32.891Z",
+              "EditorCaption": ""
             }
           ]
         }
