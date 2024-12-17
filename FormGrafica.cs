@@ -35,9 +35,7 @@ namespace ProyectoFinal
 
             data.ForEach(food =>
             {
-                var punto = this.chartExistencias.Series["Existencias"].Points.AddXY(food.Descripcion, food.Precio);
-
-
+                var punto = this.chartExistencias.Series["Existencias"].Points.AddXY(food.Descripcion, food.Existencias);
             });
 
             obj.Disconnect();

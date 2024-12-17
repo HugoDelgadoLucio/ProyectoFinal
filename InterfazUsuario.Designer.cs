@@ -28,7 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(InterfazUsuario));
             panel1 = new Panel();
+            labelTime = new Label();
+            labelTiempo = new Label();
             buttonComprar = new Button();
             groupBoxProd10 = new GroupBox();
             btnProd10 = new Button();
@@ -90,6 +93,7 @@
             groupBoxProd2 = new GroupBox();
             btnProd2 = new Button();
             numUpDwProd2 = new NumericUpDown();
+            buttonEliminar = new Button();
             panel1.SuspendLayout();
             groupBoxProd10.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)numUpDwProd10).BeginInit();
@@ -130,6 +134,9 @@
             // panel1
             // 
             panel1.BackgroundImage = Properties.Resources.f2;
+            panel1.Controls.Add(buttonEliminar);
+            panel1.Controls.Add(labelTime);
+            panel1.Controls.Add(labelTiempo);
             panel1.Controls.Add(buttonComprar);
             panel1.Controls.Add(groupBoxProd10);
             panel1.Controls.Add(groupBoxProd9);
@@ -168,12 +175,32 @@
             panel1.Size = new Size(1564, 1028);
             panel1.TabIndex = 0;
             // 
+            // labelTime
+            // 
+            labelTime.AutoSize = true;
+            labelTime.Font = new Font("Showcard Gothic", 11.25F);
+            labelTime.Location = new Point(1272, 96);
+            labelTime.Name = "labelTime";
+            labelTime.Size = new Size(58, 18);
+            labelTime.TabIndex = 83;
+            labelTime.Text = "label1";
+            // 
+            // labelTiempo
+            // 
+            labelTiempo.AutoSize = true;
+            labelTiempo.Font = new Font("Showcard Gothic", 11.25F);
+            labelTiempo.Location = new Point(1273, 131);
+            labelTiempo.Name = "labelTiempo";
+            labelTiempo.Size = new Size(58, 18);
+            labelTiempo.TabIndex = 82;
+            labelTiempo.Text = "label1";
+            // 
             // buttonComprar
             // 
             buttonComprar.BackColor = Color.BurlyWood;
             buttonComprar.BackgroundImage = Properties.Resources.carrito_de_compras;
             buttonComprar.BackgroundImageLayout = ImageLayout.Zoom;
-            buttonComprar.Location = new Point(1263, 115);
+            buttonComprar.Location = new Point(1263, 648);
             buttonComprar.Name = "buttonComprar";
             buttonComprar.Size = new Size(102, 90);
             buttonComprar.TabIndex = 81;
@@ -605,7 +632,7 @@
             groupBox1.BackColor = Color.PeachPuff;
             groupBox1.Controls.Add(labelUsuario);
             groupBox1.Font = new Font("MV Boli", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            groupBox1.Location = new Point(1058, 4);
+            groupBox1.Location = new Point(1058, 9);
             groupBox1.Name = "groupBox1";
             groupBox1.Size = new Size(302, 64);
             groupBox1.TabIndex = 81;
@@ -826,6 +853,18 @@
             numUpDwProd2.TextAlign = HorizontalAlignment.Center;
             numUpDwProd2.Value = new decimal(new int[] { 1, 0, 0, 0 });
             // 
+            // buttonEliminar
+            // 
+            buttonEliminar.BackColor = Color.RosyBrown;
+            buttonEliminar.Font = new Font("Showcard Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            buttonEliminar.Location = new Point(1098, 677);
+            buttonEliminar.Name = "buttonEliminar";
+            buttonEliminar.Size = new Size(117, 66);
+            buttonEliminar.TabIndex = 84;
+            buttonEliminar.Text = "Eliminar";
+            buttonEliminar.UseVisualStyleBackColor = false;
+            buttonEliminar.Click += buttonEliminar_Click;
+            // 
             // InterfazUsuario
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -833,6 +872,7 @@
             BackgroundImage = Properties.Resources.f2;
             ClientSize = new Size(1370, 749);
             Controls.Add(panel1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             MinimizeBox = false;
             Name = "InterfazUsuario";
@@ -951,5 +991,8 @@
         private GroupBox groupBox1;
         private Label labelUsuario;
         private Button buttonComprar;
+        private Label labelTiempo;
+        private Label labelTime;
+        private Button buttonEliminar;
     }
 }

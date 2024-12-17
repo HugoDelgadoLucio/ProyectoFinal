@@ -31,20 +31,36 @@ namespace ProyectoFinal
             AdmonBD obj = new AdmonBD();
             Comida aux = obj.consultaUnRegistroComida(Convert.ToInt32(this.textBoxBajaId.Text));
             DialogResult respuesta = MessageBox.Show(
-            "Se eliminara el registro:\n  Id: " + aux.Id + "\nDescripcion: " + aux.Descripcion
+            "Se eliminara el registro:\n  Id: " + aux.  Id + "\nDescripcion: " + aux.Descripcion
             + "\nPrecio: " + aux.Precio + "\nExistencias: " + aux.Existencias + "\nImagen: " + aux.Imagen,
             "Confirmación",
             MessageBoxButtons.YesNo,
             MessageBoxIcon.Question
              );
-            if (respuesta == DialogResult.OK)
+
+            List<Comida> coms;
+            coms = obj.consultaComida();
+            int i = 0;
+            foreach (var com in coms)
             {
-                obj.eliminar(Convert.ToInt32(this.textBoxBajaId.Text));
+                i++;
             }
-            else if (respuesta == DialogResult.Cancel)
+            if (i> 6)
             {
-                MessageBox.Show("Eliminación cancelada", "Cancelado", MessageBoxButtons.OK);
+                if (respuesta == DialogResult.Yes)
+                {
+                    obj.eliminar(Convert.ToInt32(this.textBoxBajaId.Text));
+                }
+                else if (respuesta == DialogResult.No)
+                {
+                    MessageBox.Show("Eliminación cancelada", "Cancelado", MessageBoxButtons.OK);
+                }
             }
+            else
+            {
+                MessageBox.Show("No se puede realizar la baja ya que hay menos de 7 prodcutos", "Cancelado", MessageBoxButtons.OK);
+            }
+            
 
 
             this.textBoxBajaId.Text = "";

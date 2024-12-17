@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form3));
             labelQr = new Label();
             labelATM = new Label();
             labelEfectivo = new Label();
@@ -241,6 +242,7 @@
             Controls.Add(labelATM);
             Controls.Add(labelQr);
             Controls.Add(pictureBoxQr);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form3";
             Text = "Form3";
             ((System.ComponentModel.ISupportInitialize)pictureBoxQr).EndInit();

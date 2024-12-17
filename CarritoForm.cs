@@ -18,7 +18,7 @@ namespace ProyectoFinal
         private int[] ides;
         private int[] cant;
         private int[] exist;
-
+        private double TotalConImpuestos;
         public CarritoForm(List<ConexionUsuario> compras)
         {
             InitializeComponent();
@@ -45,18 +45,19 @@ namespace ProyectoFinal
                 foreach (var producto in listaCompra)
                 {
                     decimal totalProducto = (decimal)(producto.Cantidad * producto.Precio);
+                
                     ListViewItem item = new ListViewItem(producto.Descripcion);
                     item.SubItems.Add(producto.Cantidad.ToString());
                     item.SubItems.Add($"${producto.Precio:F2}");
                     item.SubItems.Add($"${totalProducto:F2}");
                     listViewCarrito.Items.Add(item);
-                    totalCompra += totalProducto;
+                    this.totalCompra += totalProducto;
                 }
-                double petitata = Convert.ToDouble(totalCompra);
+                double petitata = Convert.ToDouble(this.totalCompra);
                 double taxes = petitata * 0.06; // Solo los impuestos
-                double TotalConImpuestos = petitata + taxes; // Sumar impuestos al total
-                labelTotal.Text = $"Total: ${totalCompra:F2}";
-                labelTaxes.Text = $"Total con impuestos: ${TotalConImpuestos:F2}";
+                this.TotalConImpuestos = petitata + taxes; // Sumar impuestos al total
+                labelTotal.Text = $"Total: ${this.totalCompra:F2}";
+                labelTaxes.Text = $"Total con impuestos: ${this.TotalConImpuestos:F2}";
             }
         }
 
@@ -181,8 +182,12 @@ namespace ProyectoFinal
 
         private void BtnComprar_Click(object sender, EventArgs e)
         {
+            Form4 frm = new Form4();
+            frm.ShowDialog();
             MessageBox.Show("Compra realizada con éxito", "Compra", MessageBoxButtons.OK, MessageBoxIcon.Information);
             this.DialogResult = DialogResult.OK;
+
+
             AdmonBD obj = new AdmonBD();
             ConexionUsuario cons;
             int i = 0;
@@ -210,7 +215,8 @@ namespace ProyectoFinal
             }
 
             total = obj.consultaUsuario(this.id);
-            obj.actualizarMonto(this.id, (this.totalCompra + total));
+            obj.actualizarMonto(this.id, (Convert.ToDecimal(this.TotalConImpuestos) + total));
+ 
             this.Close();
         }
 

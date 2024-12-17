@@ -72,14 +72,14 @@ namespace ProyectoFinal
                 pictureBoxATMBanks.Show();
                 comboBoxATMMonth.Show();
                 comboBoxATMYear.Show();
-                string jpgFilePath = Path.Combine(projectDirectory, "Resorces", "BanksLogos.png");
+                string jpgFilePath = Path.Combine(projectDirectory, "Resources", "BanksLogos.png");
                 pictureBoxATMBanks.Image = Image.FromFile(jpgFilePath);
             }
             else if (TipoDeDiseno == "Estilo3")
             {
                 this.BackColor = System.Drawing.Color.Pink;
                 this.Text = "Pago QR";
-                pictureBoxQr.Hide();
+                pictureBoxQr.Show();
                 labelQr.Show();
                 labelQr1.Show();
 
@@ -175,7 +175,14 @@ namespace ProyectoFinal
 
         private void btnATMPaga_Click_1(object sender, EventArgs e)
         {
-            MessageBox.Show("Transferencia Exitosa", "Transferencia", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            if (textBoxATMNip.Text.Length >= 4 && textBoxATMNom.Text.Length >= 16 && comboBoxATMMonth.SelectedIndex != 0 && comboBoxATMYear.SelectedIndex != 0)
+            {
+                MessageBox.Show("Transferencia Exitosa", "Transferencia", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else
+            {
+                MessageBox.Show("Transferencia No Exitosa", "Transferencia", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
         }
     }
 }

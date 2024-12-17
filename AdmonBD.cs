@@ -71,7 +71,7 @@ namespace ProyectoFinal
             {
 
                 /* Esta forma de insertar es la menos segura en cuanto ataques por mysql pero la mas sencilla por lo pronto*/
-
+                
                 query = "DELETE FROM comidas WHERE id=" + id + ";";
 
                 MySqlCommand cmd = new MySqlCommand(query, connection);

@@ -3,8 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\carritoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:carritoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\carritoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:carritoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\formlistacomidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:formlistacomidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\formlistacomidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:formlistacomidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\formgrafica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:formgrafica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\formcarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:formcarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\formcarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:formcarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\admonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:admonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\formbajacomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,64 +107,28 @@
       "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:formventastotales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\git||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:git||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\formlistacomidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:formlistacomidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\formlistacomidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:formlistacomidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\formcarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:formcarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\altacomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:altacomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\altacomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\altacomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:altacomida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\git||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:git||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\admonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:admonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\carritoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:carritoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\interfazusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -93,22 +137,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\carritoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:carritoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEFE6098-0119-431E-8783-84D6C1D7DB0F}|ProyectoFinal.csproj|c:\\users\\jetza\\onedrive\\documentos\\proyecto final c#\\proyectofinal\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -137,7 +165,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -145,20 +173,108 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormVentasTotales.cs",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormVentasTotales.cs",
-              "RelativeDocumentMoniker": "FormVentasTotales.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormVentasTotales.cs",
-              "RelativeToolTip": "FormVentasTotales.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAewDIAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "FormListaComidas.cs",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormListaComidas.cs",
+              "RelativeDocumentMoniker": "FormListaComidas.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormListaComidas.cs",
+              "RelativeToolTip": "FormListaComidas.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T00:02:22.053Z",
+              "WhenOpened": "2024-12-16T17:57:14.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarritoForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\CarritoForm.cs",
+              "RelativeDocumentMoniker": "CarritoForm.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\CarritoForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CarritoForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:47:53.652Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarritoForm.cs",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\CarritoForm.cs",
+              "RelativeDocumentMoniker": "CarritoForm.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\CarritoForm.cs",
+              "RelativeToolTip": "CarritoForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAALgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:46:25.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterfazUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\InterfazUsuario.cs",
+              "RelativeDocumentMoniker": "InterfazUsuario.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\InterfazUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InterfazUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:48:35.064Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InterfazUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\InterfazUsuario.cs",
+              "RelativeDocumentMoniker": "InterfazUsuario.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\InterfazUsuario.cs",
+              "RelativeToolTip": "InterfazUsuario.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAGsBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:47:45.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PdfGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\PdfGenerator.cs",
+              "RelativeDocumentMoniker": "PdfGenerator.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\PdfGenerator.cs",
+              "RelativeToolTip": "PdfGenerator.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:48:52.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormListaComidas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormListaComidas.cs",
+              "RelativeDocumentMoniker": "FormListaComidas.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormListaComidas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormListaComidas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:57:04.96Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAALEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:57:40.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "FormGrafica.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormGrafica.cs",
               "RelativeDocumentMoniker": "FormGrafica.cs",
@@ -170,20 +286,170 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormGrafica.cs",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormGrafica.cs",
-              "RelativeDocumentMoniker": "FormGrafica.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormGrafica.cs",
-              "RelativeToolTip": "FormGrafica.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAMwDcAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T00:01:54.962Z",
+              "WhenOpened": "2024-11-22T14:42:28.358Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:20:43.391Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:11:02.168Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:19:37.536Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormCarga.cs",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormCarga.cs",
+              "RelativeDocumentMoniker": "FormCarga.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormCarga.cs",
+              "RelativeToolTip": "FormCarga.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:09:03.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
+              "Title": "FormCarga.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormCarga.cs",
+              "RelativeDocumentMoniker": "FormCarga.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormCarga.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormCarga.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:01:35.018Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:19:57.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InicioSesion.cs",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\InicioSesion.cs",
+              "RelativeDocumentMoniker": "InicioSesion.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\InicioSesion.cs",
+              "RelativeToolTip": "InicioSesion.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAIBJwNMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T23:02:35.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InicioSesion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\InicioSesion.cs",
+              "RelativeDocumentMoniker": "InicioSesion.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\InicioSesion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InicioSesion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:57:16.387Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdmonBD.cs",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\AdmonBD.cs",
+              "RelativeDocumentMoniker": "AdmonBD.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\AdmonBD.cs",
+              "RelativeToolTip": "AdmonBD.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAIBJwIsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:56:11.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Comida.cs",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Comida.cs",
+              "RelativeDocumentMoniker": "Comida.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Comida.cs",
+              "RelativeToolTip": "Comida.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA9wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:46:38.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Usuario.cs",
+              "RelativeDocumentMoniker": "Usuario.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Usuario.cs",
+              "RelativeToolTip": "Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:47:13.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "formBajaComida.cs",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\formBajaComida.cs",
+              "RelativeDocumentMoniker": "formBajaComida.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\formBajaComida.cs",
+              "RelativeToolTip": "formBajaComida.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAIBJwDoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T23:52:02.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "formBajaComida.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\formBajaComida.cs",
               "RelativeDocumentMoniker": "formBajaComida.cs",
@@ -195,20 +461,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "formBajaComida.cs",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\formBajaComida.cs",
-              "RelativeDocumentMoniker": "formBajaComida.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\formBajaComida.cs",
-              "RelativeToolTip": "formBajaComida.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAewDcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "FormGrafica.cs",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormGrafica.cs",
+              "RelativeDocumentMoniker": "FormGrafica.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormGrafica.cs",
+              "RelativeToolTip": "FormGrafica.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBJwCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:52:02.234Z",
+              "WhenOpened": "2024-12-17T00:01:54.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 24,
+              "Title": "FormVentasTotales.cs",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormVentasTotales.cs",
+              "RelativeDocumentMoniker": "FormVentasTotales.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormVentasTotales.cs",
+              "RelativeToolTip": "FormVentasTotales.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:02:22.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "FormVentasTotales.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormVentasTotales.cs",
               "RelativeDocumentMoniker": "FormVentasTotales.cs",
@@ -220,7 +499,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 27,
+              "Title": "AltaComida.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\AltaComida.cs",
+              "RelativeDocumentMoniker": "AltaComida.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\AltaComida.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AltaComida.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T23:59:40.968Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AltaComida.cs",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\AltaComida.cs",
+              "RelativeDocumentMoniker": "AltaComida.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\AltaComida.cs",
+              "RelativeToolTip": "AltaComida.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAABQwDAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T23:59:46.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormAdmin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "FormAdmin.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormAdmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormAdmin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:27:03.282Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIBJwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:20:48.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "git",
               "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\git",
               "RelativeDocumentMoniker": "git",
@@ -233,69 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormListaComidas.cs",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormListaComidas.cs",
-              "RelativeDocumentMoniker": "FormListaComidas.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormListaComidas.cs",
-              "RelativeToolTip": "FormListaComidas.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAMwDgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T17:57:14.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FormListaComidas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormListaComidas.cs",
-              "RelativeDocumentMoniker": "FormListaComidas.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormListaComidas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormListaComidas.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T17:57:04.96Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FormCarga.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormCarga.cs",
-              "RelativeDocumentMoniker": "FormCarga.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormCarga.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormCarga.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T00:01:35.018Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AltaComida.cs",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\AltaComida.cs",
-              "RelativeDocumentMoniker": "AltaComida.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\AltaComida.cs",
-              "RelativeToolTip": "AltaComida.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAMwEMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:59:46.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AltaComida.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\AltaComida.cs",
-              "RelativeDocumentMoniker": "AltaComida.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\AltaComida.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AltaComida.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:59:40.968Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 31,
               "Title": "FormAdmin.cs",
               "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormAdmin.cs",
               "RelativeDocumentMoniker": "FormAdmin.cs",
@@ -308,120 +575,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FormAdmin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormAdmin.cs",
-              "RelativeDocumentMoniker": "FormAdmin.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormAdmin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormAdmin.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T15:27:03.282Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PdfGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\PdfGenerator.cs",
-              "RelativeDocumentMoniker": "PdfGenerator.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\PdfGenerator.cs",
-              "RelativeToolTip": "PdfGenerator.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAACcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T01:48:52.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "InterfazUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\InterfazUsuario.cs",
-              "RelativeDocumentMoniker": "InterfazUsuario.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\InterfazUsuario.cs",
-              "RelativeToolTip": "InterfazUsuario.cs",
-              "ViewState": "AgIAAEEBAAAAAAAAAAAAAEgBAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T22:47:45.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "InterfazUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\InterfazUsuario.cs",
-              "RelativeDocumentMoniker": "InterfazUsuario.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\InterfazUsuario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "InterfazUsuario.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T22:48:35.064Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 32,
               "Title": "InterfazUsuario.Designer.cs",
               "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\InterfazUsuario.Designer.cs",
               "RelativeDocumentMoniker": "InterfazUsuario.Designer.cs",
               "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\InterfazUsuario.Designer.cs",
               "RelativeToolTip": "InterfazUsuario.Designer.cs",
-              "ViewState": "AgIAAHYDAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAJ4DAAAAAAAAAAAqwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T17:37:32.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AdmonBD.cs",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\AdmonBD.cs",
-              "RelativeDocumentMoniker": "AdmonBD.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\AdmonBD.cs",
-              "RelativeToolTip": "AdmonBD.cs",
-              "ViewState": "AgIAAAsBAAAAAAAAAAAAAAQBAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:56:11.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "InicioSesion.cs",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\InicioSesion.cs",
-              "RelativeDocumentMoniker": "InicioSesion.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\InicioSesion.cs",
-              "RelativeToolTip": "InicioSesion.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAAAHAAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:02:35.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CarritoForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\CarritoForm.cs",
-              "RelativeDocumentMoniker": "CarritoForm.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\CarritoForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CarritoForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T00:47:53.652Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "InicioSesion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\InicioSesion.cs",
-              "RelativeDocumentMoniker": "InicioSesion.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\InicioSesion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "InicioSesion.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T22:57:16.387Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 33,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -434,57 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T14:42:28.358Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAA4BAAAAAAAAAAAAABwBAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T01:20:48.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CarritoForm.cs",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\CarritoForm.cs",
-              "RelativeDocumentMoniker": "CarritoForm.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\CarritoForm.cs",
-              "RelativeToolTip": "CarritoForm.cs",
-              "ViewState": "AgIAALcAAAAAAAAAAAAAAP8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T00:46:25.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Form2.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form2.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T01:11:02.168Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -497,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "CarritoForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\CarritoForm.Designer.cs",
               "RelativeDocumentMoniker": "CarritoForm.Designer.cs",
@@ -510,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -523,7 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "FormListaComidas.Designer.cs",
               "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormListaComidas.Designer.cs",
               "RelativeDocumentMoniker": "FormListaComidas.Designer.cs",
@@ -536,7 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "FormAdmin.Designer.cs",
               "DocumentMoniker": "C:\\Users\\jetza\\OneDrive\\Documentos\\Proyecto Final C#\\ProyectoFinal\\FormAdmin.Designer.cs",
               "RelativeDocumentMoniker": "FormAdmin.Designer.cs",

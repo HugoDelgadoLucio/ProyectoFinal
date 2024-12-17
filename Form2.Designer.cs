@@ -68,10 +68,10 @@
             // 
             pictureBox2.BackColor = Color.Transparent;
             pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
-            pictureBox2.Location = new Point(854, -14);
+            pictureBox2.Location = new Point(835, -14);
             pictureBox2.Margin = new Padding(3, 2, 3, 2);
             pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(211, 168);
+            pictureBox2.Size = new Size(230, 189);
             pictureBox2.TabIndex = 34;
             pictureBox2.TabStop = false;
             pictureBox2.Click += pictureBox2_Click;

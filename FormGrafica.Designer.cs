@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormGrafica));
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
             panel1 = new Panel();
             groupBox1 = new GroupBox();
             labelUsuario = new Label();
@@ -61,7 +61,7 @@
             panel1.Dock = DockStyle.Fill;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
-            panel1.Size = new Size(1111, 611);
+            panel1.Size = new Size(1144, 636);
             panel1.TabIndex = 0;
             // 
             // groupBox1
@@ -71,7 +71,7 @@
             groupBox1.Controls.Add(buttonLogout);
             groupBox1.Controls.Add(labelSalir);
             groupBox1.Font = new Font("MV Boli", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            groupBox1.Location = new Point(797, 28);
+            groupBox1.Location = new Point(830, 9);
             groupBox1.Name = "groupBox1";
             groupBox1.Size = new Size(302, 121);
             groupBox1.TabIndex = 40;
@@ -120,7 +120,7 @@
             groupBoxGrafica.Controls.Add(buttonActualizar);
             groupBoxGrafica.Controls.Add(chartExistencias);
             groupBoxGrafica.Font = new Font("MV Boli", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            groupBoxGrafica.Location = new Point(144, 103);
+            groupBoxGrafica.Location = new Point(110, 103);
             groupBoxGrafica.Name = "groupBoxGrafica";
             groupBoxGrafica.Size = new Size(704, 508);
             groupBoxGrafica.TabIndex = 39;
@@ -145,22 +145,22 @@
             // 
             chartExistencias.BackColor = Color.Transparent;
             chartExistencias.BorderlineColor = Color.RosyBrown;
-            chartArea1.BackColor = Color.Transparent;
-            chartArea1.Name = "ChartArea1";
-            chartExistencias.ChartAreas.Add(chartArea1);
-            legend1.Name = "Legend1";
-            chartExistencias.Legends.Add(legend1);
+            chartArea2.BackColor = Color.Transparent;
+            chartArea2.Name = "ChartArea1";
+            chartExistencias.ChartAreas.Add(chartArea2);
+            legend2.Name = "Legend1";
+            chartExistencias.Legends.Add(legend2);
             chartExistencias.Location = new Point(17, 0);
             chartExistencias.Name = "chartExistencias";
             chartExistencias.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.EarthTones;
-            series1.ChartArea = "ChartArea1";
-            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Doughnut;
-            series1.Color = Color.FromArgb(255, 224, 192);
-            series1.Font = new Font("Microsoft Sans Serif", 8.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            series1.Legend = "Legend1";
-            series1.Name = "Existencias";
-            series1.SmartLabelStyle.IsMarkerOverlappingAllowed = true;
-            chartExistencias.Series.Add(series1);
+            series2.ChartArea = "ChartArea1";
+            series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Doughnut;
+            series2.Color = Color.FromArgb(255, 224, 192);
+            series2.Font = new Font("Microsoft Sans Serif", 8.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            series2.Legend = "Legend1";
+            series2.Name = "Existencias";
+            series2.SmartLabelStyle.IsMarkerOverlappingAllowed = true;
+            chartExistencias.Series.Add(series2);
             chartExistencias.Size = new Size(568, 498);
             chartExistencias.TabIndex = 21;
             chartExistencias.Text = "Existencias";
@@ -204,9 +204,10 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1111, 611);
+            ClientSize = new Size(1144, 636);
             Controls.Add(panel1);
             FormBorderStyle = FormBorderStyle.FixedSingle;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             Name = "FormGrafica";
             StartPosition = FormStartPosition.CenterScreen;

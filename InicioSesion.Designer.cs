@@ -211,6 +211,7 @@
             Controls.Add(pictureBox2);
             Controls.Add(IdUsuarioBox);
             Controls.Add(ButtonPause);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(2);
             Name = "InicioSesion";
             Text = "Inicia sesion!";

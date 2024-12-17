@@ -38,7 +38,7 @@ namespace ProyectoFinal
             timerHora.Tick += TimerHora_Tick; // Asociar el evento Tick
             timerHora.Start(); // Iniciar el Timer
 
-            labelFecha.Text = $"{dia}";
+            labelTime.Text = $"{dia}";
 
             cajas = new PictureBox[]{ pictureBoxProd1, pictureBoxProd2, pictureBoxProd3, pictureBoxProd4, pictureBoxProd5,
                                         pictureBoxProd6, pictureBoxProd7, pictureBoxProd8,pictureBoxProd9, pictureBoxProd10 };
@@ -114,7 +114,7 @@ namespace ProyectoFinal
             timerHora.Tick += TimerHora_Tick; // Asociar el evento Tick
             timerHora.Start(); // Iniciar el Timer
 
-            labelFecha.Text = $"{dia}";
+            labelTime.Text = $"{dia}";
 
             cajas = new PictureBox[]{ pictureBoxProd1, pictureBoxProd2, pictureBoxProd3, pictureBoxProd4, pictureBoxProd5,
                                 pictureBoxProd6, pictureBoxProd7, pictureBoxProd8,pictureBoxProd9, pictureBoxProd10 };
@@ -222,7 +222,7 @@ namespace ProyectoFinal
         private void TimerHora_Tick(object sender, EventArgs e)
         {
             // Actualizar la etiqueta con la hora actual
-            labelHora.Text = DateTime.Now.ToString("HH:mm:ss tt");
+            labelTiempo.Text = DateTime.Now.ToString("HH:mm:ss tt");
         }
 
         private void AsignarImagenes()
@@ -413,6 +413,11 @@ namespace ProyectoFinal
         private void btnProd4_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void buttonEliminar_Click(object sender, EventArgs e)
+        {
+            listaCompra.Clear();
         }
     }
 }

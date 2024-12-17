@@ -198,6 +198,7 @@
             ClientSize = new Size(940, 450);
             Controls.Add(panel1);
             FormBorderStyle = FormBorderStyle.FixedSingle;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             Name = "FormVentasTotales";
             Text = "FormVentasTotales";

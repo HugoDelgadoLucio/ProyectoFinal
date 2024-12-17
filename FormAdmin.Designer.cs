@@ -276,6 +276,7 @@
             ClientSize = new Size(1353, 749);
             Controls.Add(panel1);
             FormBorderStyle = FormBorderStyle.FixedSingle;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             MinimizeBox = false;
             Name = "FormAdmin";

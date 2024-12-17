@@ -54,7 +54,7 @@ namespace ProyectoFinal
             {
                 this.timerProgreso.Enabled = false;
                 this.Close();
-                FormAdmin pantalla = new FormAdmin("JETZAN AZAEL ESQUIVEL");
+                FormAdmin pantalla = new FormAdmin(this.nombreUsuario);
                 pantalla.ShowDialog();
 
             }

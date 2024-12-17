@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form4));
             btnEfectivo = new Button();
             btnTarjetaCredito = new Button();
             btnQr = new Button();
@@ -87,7 +88,9 @@
             Controls.Add(btnQr);
             Controls.Add(btnTarjetaCredito);
             Controls.Add(btnEfectivo);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form4";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Form4";
             ResumeLayout(false);
         }

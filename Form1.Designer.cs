@@ -30,6 +30,8 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             panel1 = new Panel();
+            button1 = new Button();
+            label14 = new Label();
             pictureBox2 = new PictureBox();
             label13 = new Label();
             label12 = new Label();
@@ -46,8 +48,6 @@
             label1 = new Label();
             Integrantes = new Label();
             pictureBox1 = new PictureBox();
-            button1 = new Button();
-            label14 = new Label();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
@@ -80,11 +80,38 @@
             panel1.Size = new Size(1233, 673);
             panel1.TabIndex = 0;
             // 
+            // button1
+            // 
+            button1.BackColor = Color.Maroon;
+            button1.Font = new Font("Mexicana Hollow", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            button1.ForeColor = Color.White;
+            button1.Location = new Point(573, 617);
+            button1.Margin = new Padding(3, 2, 3, 2);
+            button1.Name = "button1";
+            button1.Size = new Size(147, 45);
+            button1.TabIndex = 52;
+            button1.Text = "INGRESAR";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
+            // 
+            // label14
+            // 
+            label14.AutoSize = true;
+            label14.BackColor = Color.Transparent;
+            label14.Font = new Font("Showcard Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label14.ForeColor = Color.FromArgb(0, 64, 0);
+            label14.Location = new Point(59, 617);
+            label14.Name = "label14";
+            label14.Size = new Size(85, 20);
+            label14.TabIndex = 51;
+            label14.Text = "17/12/2024";
+            label14.Click += label14_Click;
+            // 
             // pictureBox2
             // 
             pictureBox2.BackColor = Color.Transparent;
             pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
-            pictureBox2.Location = new Point(916, 82);
+            pictureBox2.Location = new Point(983, 84);
             pictureBox2.Margin = new Padding(3, 2, 3, 2);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(250, 206);
@@ -193,7 +220,7 @@
             label5.BackColor = Color.Transparent;
             label5.Font = new Font("Mexicana", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label5.ForeColor = Color.IndianRed;
-            label5.Location = new Point(218, 553);
+            label5.Location = new Point(218, 542);
             label5.Name = "label5";
             label5.Size = new Size(361, 20);
             label5.TabIndex = 41;
@@ -205,7 +232,7 @@
             label4.BackColor = Color.Transparent;
             label4.Font = new Font("Mexicana", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label4.ForeColor = Color.IndianRed;
-            label4.Location = new Point(171, 527);
+            label4.Location = new Point(160, 509);
             label4.Name = "label4";
             label4.Size = new Size(431, 20);
             label4.TabIndex = 40;
@@ -263,39 +290,12 @@
             // 
             pictureBox1.BackColor = Color.Transparent;
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(41, 127);
+            pictureBox1.Location = new Point(12, 127);
             pictureBox1.Margin = new Padding(3, 2, 3, 2);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(216, 208);
+            pictureBox1.Size = new Size(228, 225);
             pictureBox1.TabIndex = 35;
             pictureBox1.TabStop = false;
-            // 
-            // button1
-            // 
-            button1.BackColor = Color.Maroon;
-            button1.Font = new Font("Mexicana Hollow", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button1.ForeColor = Color.White;
-            button1.Location = new Point(573, 617);
-            button1.Margin = new Padding(3, 2, 3, 2);
-            button1.Name = "button1";
-            button1.Size = new Size(147, 45);
-            button1.TabIndex = 52;
-            button1.Text = "INGRESAR";
-            button1.UseVisualStyleBackColor = false;
-            button1.Click += this.button1_Click;
-            // 
-            // label14
-            // 
-            label14.AutoSize = true;
-            label14.BackColor = Color.Transparent;
-            label14.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label14.ForeColor = Color.FromArgb(0, 64, 0);
-            label14.Location = new Point(57, 635);
-            label14.Name = "label14";
-            label14.Size = new Size(89, 20);
-            label14.TabIndex = 51;
-            label14.Text = "05/12/2024";
-            label14.Click += label14_Click;
             // 
             // Form1
             // 
@@ -303,7 +303,9 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1233, 673);
             Controls.Add(panel1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
             Load += Form1_Load;
             panel1.ResumeLayout(false);

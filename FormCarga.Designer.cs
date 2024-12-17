@@ -112,6 +112,7 @@
             ClientSize = new Size(752, 250);
             Controls.Add(panel1);
             FormBorderStyle = FormBorderStyle.FixedSingle;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             Name = "FormCarga";
             StartPosition = FormStartPosition.CenterScreen;
